@@ -1,0 +1,1 @@
+<!--This is a new footer file, Please make sure to use bootstrap grid layout for footer presentation-->
