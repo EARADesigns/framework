@@ -27,7 +27,12 @@
 				Morbi sit amet hendrerit lacus, ac fermentum massa. Etiam dolor ipsum, aliquam vel ultricies at, rhoncus vitae diam.
 			</p>
 			<div class="row">
-				<div class="col-md-6">
+				<div class="col-md-4">
+
+					<img src="#" alt="image">
+					
+				</div>
+				<div class="col-md-4">
 					<p>
 						Lorem ipsum dolor sit amet,  consectetur adipiscing elit. Cras id turpis quis metus hendrerit lobortis in tristique velit. 
 					  	Suspendisse facilisis leo vitae neque pulvinar, ac tristique magna placerat.
@@ -36,7 +41,7 @@
 					  	Suspendisse facilisis leo vitae neque pulvinar, ac tristique magna placerat.
 					</p>
 				</div>
-				<div class="col-md-6">
+				<div class="col-md-4">
 
 					<img src="#" alt="image">
 					
