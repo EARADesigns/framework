@@ -14,7 +14,7 @@
 
 	<link href="includes/content/forms/form1.css" rel="stylesheet">
 
-	<link href="includes/content/contact/contact1.css" rel="stylesheet">
+	<link href="includes/content/contact/contact2.css" rel="stylesheet">
 
 	<link href="includes/content/footers/footer1.css" rel="stylesheet">
 

@@ -14,6 +14,7 @@
 
 		<div class="col-md-6">
 			<ul>
+				<h1>Our contact details</h1>
 				<li>
 					Contact number: 00000000000
 				</li>
@@ -23,6 +24,22 @@
 				<li>
 					Email: example@email.com
 				</li>
+				
+					<h1>Leave us a Message</h1>
+				
+				<li>
+					<input placeholder="name"></input>
+				</li>
+				<br>
+				<li>
+					<input placeholder="Email"></input>
+				</li>
+				<br>
+				<li>
+					<input id="contactmessage" placeholder="message"></input>
+				</li>
+				<br>
+				<input type="submit" value="Submit">
 			</ul>
 		</div>
 	</div>
