@@ -59,7 +59,7 @@
 		</div>
 		<div class="container container2">
 			<div class="row">
-				<div class="col-md-6">
+				<div class="col-md-4">
 				
 				
 				<span class="glyphicon glyphicon-cog"></span>
@@ -67,7 +67,12 @@
 				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
 				
 				</div>
-				<div class="col-md-6">
+				<div class="col-md-4">
+
+							<img src="media/images/car.jpg" alt="image">
+							
+				</div>
+				<div class="col-md-4">
 
 				<span class="glyphicon glyphicon-home"></span>
 				<h3>title</h3>
@@ -75,15 +80,6 @@
 
 				</div>
 			</div>
-			<div class="row">
-				
-				<div class="col-md-12 image">
-				
-							<img src="media/images/car.jpg" alt="image">
-							<p>somemthing interesting about cars</p>
-					
-				</div>
-				
-			</div>
 		</div>
+	</div>
 </section>

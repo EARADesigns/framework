@@ -8,7 +8,7 @@
 
 	<link href="includes/content/headers/header1.css" rel="stylesheet">
 
-	<link href="includes/content/content/content5.css" rel="stylesheet">
+	<link href="includes/content/content/content7.css" rel="stylesheet">
 
 	<link href="includes/content/galleries/gallery1.css" rel="stylesheet">
 
